@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jgriel/jgriel/assets/84743102/3a34e1d2-bed3-451d-9cb5-7c7ec2e1655f" />
+  <img src="https://github.com/jgriel/jgriel/assets/84743102/25749b7d-0d7a-44f2-8a11-755310a90617" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,7 +58,8 @@
   </div>
 </div>
 
-<div align="center">
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jgriel&theme=dark&exclude_days=Sun%2CSat" />
+<br>
+<div>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=jgriel&theme=midnight-purple&exclude_days=Sun%2CSat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgriel&theme=midnight-purple&layout=compact" />
 </div>
