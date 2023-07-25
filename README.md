@@ -15,7 +15,7 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
-<h2>The Stack</h2>
+<h2><i>The Stack</i></h2>
 <div>
   <div>
     <b>Educational</b>
