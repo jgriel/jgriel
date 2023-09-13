@@ -22,9 +22,11 @@
     <br />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/CUDA-green.svg?style=for-the-badge&logo=data:image/svg+xml;base64,IDxzdmcgIHZlcnNpb249IjEuMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgd2lkdGg9IjMwMC4wMDAwMDBwdCIgaGVpZ2h0PSIyNDguMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAzMDAuMDAwMDAwIDI0OC4wMDAwMDAiICBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij4gIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDI0OC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+IDxwYXRoIGQ9Ik0xMTAwIDI0NjQgYy0xNjAgLTI1IC0yNzEgLTU4IC00MDUgLTEyMyAtMjk0IC0xNDMgLTUyNCAtNDEzIC02MjQgLTczMiAtNDEgLTEzMCAtNTUgLTIyMyAtNTUgLTM2OSAwIC0zMjYgMTEyIC02MDkgMzM1IC04NDQgMzI5IC0zNDggODIwIC00NzIgMTI3OSAtMzI1IDE5MyA2MiAzNjQgMTcxIDUxMCAzMjUgNzQgNzggMTcxIDIwNSAxNzAgMjIzIDAgMyAtNjkgNDUgLTE1MyA5MiAtODQgNDggLTIwMSAxMTUgLTI2MSAxNTAgbC0xMDkgNjMgLTI2IC0zNCBjLTEzMyAtMTc3IC0zMTQgLTI3MCAtNTE5IC0yNzAgLTIzMSAxIC00NTAgMTM3IC01NTEgMzQ0IC02MSAxMjUgLTc5IDIzOSAtNTggMzcwIDU2IDM1NSAzOTMgNTg1IDc0NiA1MTEgMTQ4IC0zMSAyNzkgLTExOCAzODIgLTI1NCBsMjYgLTM1IDQ0IDI2IGMzNjkgMjExIDQ1NiAyNjIgNDY3IDI3MiAzMCAyOCAtMTY4IDI2MSAtMzE3IDM3NCAtMTQ5IDExMiAtMzQ5IDE5NiAtNTQxIDIyNyAtODUgMTMgLTI3NSAxOCAtMzQwIDl6Ii8+IDxwYXRoIGQ9Ik0yMjEwIDEzNzUgbDAgLTY0IC02NyAtMyAtNjggLTMgLTMgLTY3IC0zIC02OCA3MSAwIDcwIDAgMCAtNjUgMCAtNjUgNjUgMCA2NSAwIDAgNjUgMCA2NSA3MCAwIDcwIDAgMCA3MCAwIDcwIC03MCAwIC03MCAwIDAgNjUgMCA2NSAtNjUgMCAtNjUgMCAwIC02NXoiLz4gPHBhdGggZD0iTTI3MzAgMTM3NSBsMCAtNjQgLTY3IC0zIC02OCAtMyAtMyAtNjcgLTMgLTY4IDcxIDAgNzAgMCAwIC02NSAwIC02NSA2NSAwIDY1IDAgMCA2NSAwIDY1IDcwIDAgNzAgMCAwIDcwIDAgNzAgLTcwIDAgLTcwIDAgMCA2NSAwIDY1IC02NSAwIC02NSAwIDAgLTY1eiIvPiA8L2c+IDwvc3ZnPiA=" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   </div>
@@ -43,9 +45,12 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </div>
 
   <div>
