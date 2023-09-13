@@ -67,8 +67,8 @@
   <b>Current Tech</b>
   <br />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Mint-Lenovo_ThinkPad_P16S-87CF3E?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-ASUS_Zephyrus_G14-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
