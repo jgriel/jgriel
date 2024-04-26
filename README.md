@@ -11,10 +11,6 @@
   <a href="https://www.instagram.com/thereal_joshgriel/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" /></a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
 <h2>The Stack</h2>
 <div>
   <div>
