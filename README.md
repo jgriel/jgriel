@@ -61,17 +61,6 @@
 
 <br />
 <div>
-  <b>Current Tech</b>
-  <br />
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-Lenovo_ThinkPad_P16S-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-ASUS_Zephyrus_G14-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-<br />
-<div>
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=jgriel&theme=midnight-purple&exclude_days=Sun%2CSat" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgriel&theme=midnight-purple&layout=compact" />
 </div>
