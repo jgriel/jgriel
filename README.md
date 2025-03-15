@@ -61,6 +61,5 @@
 
 <br />
 <div>
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=jgriel&theme=midnight-purple&exclude_days=Sun%2CSat" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgriel&theme=midnight-purple&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgriel&theme=midnight-purple&layout=compact" />
 </div>
