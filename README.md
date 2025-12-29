@@ -57,8 +57,3 @@
     <a href="https://www.coursera.org/user/c0fa6c5ca86a1d9ac96b5a0f562ea852"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Badge"/></a>
   </div>
 </div>
-
-<br />
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgriel&theme=midnight-purple&layout=compact" />
-</div>
